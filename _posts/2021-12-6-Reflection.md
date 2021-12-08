@@ -12,7 +12,6 @@ My favorite assignment was the thinglink map.
 
 <iframe width="960" height="729.2193308550186" data-original-width="1614" data-original-height="1226" src="https://www.thinglink.com/card/1496583060047527939" type="text/html" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen scrolling="no"></iframe><script async src="//cdn.thinglink.me/jse/responsive.js"></script>
 
-
 It was very nostalgic to create and think about but also fun and creative. In my 16 years of school, I have read papers and looked at projects to review. While they haven’t been digital humanities projects the idea of the review is something that I’ve been doing since elementary school, however the map we created was an entirely new experience. 
 It allowed everyone to create their own map, with different experiences and different stories. Mine was a map of things that I consistently have done over the last four years. Going through other people's maps was super informative because it showed how people did different stories and even more interestingly how everyone uses and has different memories in different places. Although CNU is a smaller school everyone lives different lives.
 
